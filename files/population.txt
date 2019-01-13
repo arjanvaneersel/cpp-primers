@@ -1,0 +1,3 @@
+Population UK: 64000000
+Population France: 664000000
+Population Netherlands: 17000000
